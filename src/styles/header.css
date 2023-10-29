@@ -1,0 +1,37 @@
+.header {
+  outline: solid green 2px;
+  width: 550px;
+  height: 65px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 0px 25px;
+}
+
+.header-left {
+  display: flex;
+  gap: 5px;
+}
+
+.header-logo {
+  width: 30px;
+  height: 26px;
+  margin: auto;
+}
+
+.header-title {
+  color: #fff;
+  font-family: "Karla", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -2px;
+}
+
+.header-subtitle {
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
