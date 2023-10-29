@@ -3,3 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.content {
+    outline: blue solid 2px;
+    width: 550px;
+    margin: auto;
+}
