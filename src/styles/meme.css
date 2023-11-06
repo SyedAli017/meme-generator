@@ -34,3 +34,36 @@
   border-radius: 5px;
   background: linear-gradient(90deg, #711f8d 1.14%, #a818da 100%);
 }
+
+.meme-image {
+  width: 475px;
+  margin: 0px 37px 55px 38px;
+}
+
+.meme-top-text,
+.meme-bottom-text {
+  position: absolute;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 15px 0;
+  padding: 0 5px;
+  font-family: "Impact", sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 5px #000;
+}
+
+.meme-top-text {
+  top: 0;
+}
+
+.meme-bottom-text {
+  bottom: 55px;
+}
+
+.meme {
+  position: relative;
+}

@@ -5,7 +5,7 @@
 }
 
 .content {
-    outline: blue solid 2px;
+  background-color: whitesmoke;
     width: 550px;
     margin: auto;
 }
