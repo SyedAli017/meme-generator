@@ -3,3 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.content {
+  background-color: whitesmoke;
+    width: 550px;
+    margin: auto;
+}
